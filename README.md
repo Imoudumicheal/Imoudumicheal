@@ -10,7 +10,7 @@
 - 💬 Ask me about ...
 
 
-- 📫 How to reach me: IMOUDUEVELYN@GMAIL.COM
+- 📫 How to reach me: Micheal.imoudu@physci.uniben.edu
 
 
 ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)

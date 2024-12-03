@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ALX-SOFTWARE-ENGINERING 
+- 🔭 I worked on Modelling the malaria dynamics in Kebbi state, Nigeria, ALX-SOFTWARE-ENGINERING 
 
-- 🌱 I’m currently learning C, PYTHON, SHELL, SQL
+- 🌱 I’m currently learning ML, PYTHON, R programming, SQL
 
-- 👯 I’m looking to collaborate on WEB DEVELOPMENT, CLOUD DEVELOPMENT, DATA SCIENCE
+- 👯 I’m looking to collaborate on Machine Learning, CLOUD DEVELOPMENT, DATA SCIENCE
 
 - 🤔 I’m looking for help with 
 
@@ -15,22 +15,22 @@
 
 ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Imoudu Micheal</h1>
-<h3 align="center">A passionate Software Engineer from Nigeria</h3>
+<h3 align="center">A passionate Mathematician, using mathematics and its application in prediction analysis from Nigeria</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysuarex&label=Profile%20views&color=0e75b6&style=flat" alt="aysuarex" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ImouduMicheal1" target="blank"><img src="https://img.shields.io/twitter/follow/imoudumicheal1?logo=twitter&style=for-the-badge" alt="ImouduMicheal1" /></a> </p>
 
-- 🔭 I’m currently working on **Projects in Python and C**
+- 🔭 I’m currently working on **Projects in Python and R, also using this in application to mathematical modelling**
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **imouduevelyn@gmail.com**
 
-- ⚡ Fun fact **I'm a student of the ALX Software Engineering Programme**
+- ⚡ Fun fact **I'm an Intern at International Centre for Applied Mathematical Modelling and Data Analytics , and I was a student of the ALX Software Engineering Programme**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
